@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Preview
+
+You may want to see a [**live preview**](https://btech-induction.netlify.app/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
