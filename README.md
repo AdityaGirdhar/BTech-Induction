@@ -1,6 +1,6 @@
 # Preview
 
-You may want to see a [**live preview**](https://btech-induction.netlify.app/)
+[Click here](https://btech-induction.netlify.app/) for a live preview.
 
 ## Getting Started with Create React App
 
